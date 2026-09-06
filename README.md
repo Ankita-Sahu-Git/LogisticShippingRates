@@ -1,5 +1,5 @@
 # Practice-Project-Part1
-This if practice project part1
+This is practice project part1
 
 Please consider the below factors while contributing
 Code Style:
